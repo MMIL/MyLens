@@ -20,10 +20,10 @@
 
 
 <h2><code>Features to be Implemented</h2>
--<br> Diseased Plant Classifier.
--<br> Qr Scanner
--<br> Picture to Text Converter.
--<br> Language Translator(Text).
--<br> Convert Image to Pdf.</code>
+<ul> <li>Diseased Plant Classifier.
+<li>> Qr Scanner
+<li> Picture to Text Converter.
+<li> Language Translator(Text).
+<li>Convert Image to Pdf.</code></ul>
 
 

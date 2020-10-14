@@ -19,11 +19,11 @@
 
 
 
-<h2><code>Features to be Implemented</code></h2>
-- Diseased Plant Classifier.
-- Qr Scanner
-- Picture to Text Converter.
-- Language Translator(Text).
-- Convert Image to Pdf.
+<h2><code>Features to be Implemented</h2>
+-<br> Diseased Plant Classifier.
+-<br> Qr Scanner
+-<br> Picture to Text Converter.
+-<br> Language Translator(Text).
+-<br> Convert Image to Pdf.</code>
 
 

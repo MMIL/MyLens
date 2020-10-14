@@ -21,11 +21,11 @@
 
 <h2><code>Features to be Implemented</h2>
 <ul>
-  <li><code>Diseased Plant Classifier.</code>
-<li><code> Qr Scanner</code>
-<li><code> Picture to Text Converter.</code>
-<li> <code>Language Translator(Text).</code>
-<li><code>Convert Image to Pdf.</code>
+  <li><h4>Diseased Plant Classifier.</h4>
+<li><h4>Qr Scanner</h4>
+<li><h4> Picture to Text Converter</h4>
+<li><h4>Language Translator(Text)</h4>
+<li><h4>Convert Image to Pdf</h4>
   </ul>
 
 
